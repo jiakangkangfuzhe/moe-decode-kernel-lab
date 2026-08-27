@@ -1,0 +1,14 @@
+MoE Decode Kernel Lab
+Copyright 2026
+
+This repository contains experimental modifications based on vLLM.
+The upstream vLLM project is licensed under the Apache License 2.0.
+
+The CUDA Top-k implementation is derived from vLLM's MoE Top-k/softmax
+implementation, which in turn includes attribution to NVIDIA TensorRT-LLM.
+Relevant source files retain SPDX and upstream copyright notices.
+
+vLLM: https://github.com/vllm-project/vllm
+TensorRT-LLM: https://github.com/NVIDIA/TensorRT-LLM
+
+No model weights, model code, or upstream vLLM binaries are distributed here.

@@ -1,0 +1,4 @@
+concurrency,runs,baseline_tpot_median_ms,optimized_tpot_median_ms,tpot_gain_pct,baseline_p99_itl_ms,optimized_p99_itl_ms,p99_itl_gain_pct,baseline_output_tokens_per_s,optimized_output_tokens_per_s,output_tokens_per_s_gain_pct
+8,3,7.388906,7.413263,-0.329648,8.273263,8.254653,0.224941,1005.555846,1028.400272,2.271821
+16,3,9.726730,9.727774,-0.010733,11.373330,11.151453,1.950856,1532.737258,1530.738934,-0.130376
+32,3,13.251290,13.036131,1.623687,15.907248,16.097572,-1.196462,2229.252976,2316.533948,3.915257
